@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introdução à Análise de Dados para Pesquisa no SUS
 
 Este repositório contém os materiais práticos do curso **Introdução à Análise de Dados para Pesquisa no SUS**, oferecido pelo Campus Virtual Fiocruz.
@@ -350,3 +351,7 @@ Este material foi desenvolvido para o curso **"Introdução à Análise de Dados
 ---
 
 *Desenvolvido com ❤️ para a comunidade de saúde pública brasileira*
+=======
+# Introdução à Análise-de-Dados---SUS---Fiocruz
+Material do curso Introdução à Análise de Dados - SUS oferecido pela Fiocruz
+>>>>>>> f7b13c281bcbf51d2cc9771795fe5422e190af67
